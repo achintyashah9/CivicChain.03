@@ -1,13 +1,9 @@
-Every year, our municipal corporations publish hundreds of pages of budget PDFs filled with numbers, codes, and jargon. Citizens pay their taxes but rarely understand:
-Where is the money actually going?
-Why are some roads still broken despite funds being allocated?
-Why do some wards seem neglected while others get more projects?
+Every year, our municipal corporations publish hundreds of pages of budget PDFs filled with numbers, codes, and jargon. Citizens pay their taxes but rarely understand: Where is the money actually going? Why are some roads still broken despite funds being allocated? Why do some wards seem neglected while others get more projects?
 
-CivicChain was built to answer these questions.
-We take those complex, inaccessible budget PDFs and turn them into something every citizen can use:
--> Interactive dashboards, plain-language AI insights, and ward-level maps.
-    Because in a democracy, informed citizens are empowered citizens.
-    
+CivicChain was built to answer these questions. We take those complex, inaccessible budget PDFs and turn them into something every citizen can use: -> Interactive dashboards, plain-language AI insights, and ward-level maps.
+
+Because in a democracy, informed citizens are truly empowered citizens.
+
 What CivicChain Does
 Data Pipeline -> Automatically fetches municipal budget PDFs every year
 AI Parsing & OCR -> Handles English + regional language documents
@@ -33,4 +29,4 @@ Fetch -> Download yearly municipal budget PDFs automatically
 Parse -> Convert PDFs (even in regional languages) into structured CSV
 Load -> Store clean data in Supabase (city → wards → departments)
 Analyze -> AI detects anomalies & explains trends in plain language
-Visualize -> Citizens see interactive charts, maps, and summaries 
+Visualize -> Citizens see interactive charts, maps, and summaries
