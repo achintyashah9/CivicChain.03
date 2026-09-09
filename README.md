@@ -1,7 +1,8 @@
-Every year, our municipal corporations publish hundreds of pages of budget PDFs filled with numbers, codes, and jargon. Citizens pay their taxes but rarely understand:
-Where is the money actually going?
-Why are some roads still broken despite funds being allocated?
-Why do some wards seem neglected while others get more projects?
+Every year, our municipal corporations publish hundreds of pages of budget PDFs filled with numbers, codes, and jargon. Citizens pay their taxes but rarely understand: Where is the money actually going? Why are some roads still broken despite funds being allocated? Why do some wards seem neglected while others get more projects?
+
+CivicChain was built to answer these questions. We take those complex, inaccessible budget PDFs and turn them into something every citizen can use: -> Interactive dashboards, plain-language AI insights, and ward-level maps.
+
+Because in a democracy, informed citizens are truly empowered citizens.
 
 CivicChain was built to answer these questions.
 We take those complex, inaccessible budget PDFs and turn them into something every citizen can use:
